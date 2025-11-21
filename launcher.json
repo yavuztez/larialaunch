@@ -14,15 +14,20 @@
   "launcher_jar_checksum": "8e178ce0eb90f584a958f7795d5cdd6e5b375d60",
   "launcher_path": "launcher.jar",
   "launcher_args": "-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dcom.sun.net.ssl.checkRevocation=false -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -XX:+DisableAttachMechanism -Dcom.ibm.tools.attach.enable=no -Djna.encoding=UTF-8 -Dlog4j2.formatMsgNoLookups=true -Dr=1 -Xmn%initRAM%M -Xmx%maxRAM%M -Djava.net.preferIPv4Stack=true %runArgs%",
+  
   "javaIntegrity": {
     "rt-x64": "14b11002ca8b6c317153ba22b23f15ac037a5a72"
   },
+  
   "downloads": {
     "client": {
       "sha1": "2bcff844ab16805357ba95a309e577603c7a5645",
       "url": "https://github.com/yavuztez/larialaunch/raw/refs/heads/main/Client.jar"
-    }
+    },
+    
+    "libraries_zip_url": "http://104.238.23.22/libraries.zip" 
   },
+  
   "java": {
     "url": "http://104.238.23.22/java.zip",
     "sha1": "259b267bfc6941ecc7d88e9af8426c3847d73e95",
