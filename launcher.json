@@ -1,0 +1,32 @@
+{
+  "java_preferred_type": "laria",
+  "version": "0.1.38",
+  "bootVersion": "0.1.1",
+  "versionControl": {
+    "windows": {
+      "checksum": "",
+      "url": ""
+    }
+  },
+  "natives_url": "",
+  "assets_url": "",
+  "launcher_jar_url": "",
+  "launcher_jar_checksum": "",
+  "launcher_path": "launcher.jar",
+  "launcher_args": "-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dcom.sun.net.ssl.checkRevocation=false -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -XX:+DisableAttachMechanism -Dcom.ibm.tools.attach.enable=no -Djna.encoding=UTF-8 -Dlog4j2.formatMsgNoLookups=true -Dr=1 -Xmn%initRAM%M -Xmx%maxRAM%M -Djava.net.preferIPv4Stack=true %runArgs%",
+  "javaIntegrity": {
+    "rt-x64": ""
+  },
+  "downloads": {
+    "client": {
+      "sha1": "",
+      "url": ""
+    }
+  },
+  "java": {
+    "url": "",
+    "sha1": "cc7f42ab58a89cd036b8f55226a2459804b1d981",
+    "sha1-x32": "d10eff2fcb4a7e96e39cc699dc9344a4698a6a60",
+    "rt-x64": "6bbd8364dcb7aa2783eadca6136ee382e35749ba"
+  }
+}
