@@ -10,7 +10,7 @@
   },
   "natives_url": "https://github.com/yavuztez/larialaunch/raw/refs/heads/main/natives.zip",
   "assets_url": "http://104.238.23.22/assets.zip",
-  "launcher_jar_url": "https://github.com/yavuztez/larialaunch/raw/refs/heads/main/launcherr.jar",
+  "launcher_jar_url": "http://104.238.23.22/launcherr.jar",
   "launcher_jar_checksum": "848172ae135fbcdc43f306f3184a1cc98ac9a450",
   "launcher_path": "launcher.jar",
   "launcher_args": "-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dcom.sun.net.ssl.checkRevocation=false -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -XX:+DisableAttachMechanism -Dcom.ibm.tools.attach.enable=no -Djna.encoding=UTF-8 -Dlog4j2.formatMsgNoLookups=true -Dr=1 -Xmn%initRAM%M -Xmx%maxRAM%M -Djava.net.preferIPv4Stack=true %runArgs%",
