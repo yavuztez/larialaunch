@@ -4,7 +4,7 @@
   "bootVersion": "0.1.1",
   "versionControl": {
     "windows": {
-      "checksum": "b709759046be86ea1c8e9e20124b4d055e10e8bb",
+      "checksum": "9a6235335433a816d27e98ddb639f4ca183c7cc2",
       "url": "https://raw.githubusercontent.com/yavuztez/larialaunch/refs/heads/main/bootstrap.jar"
     }
   },
