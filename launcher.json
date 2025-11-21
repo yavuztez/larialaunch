@@ -4,29 +4,29 @@
   "bootVersion": "0.1.1",
   "versionControl": {
     "windows": {
-      "checksum": "",
-      "url": ""
+      "checksum": "b709759046be86ea1c8e9e20124b4d055e10e8bb",
+      "url": "https://raw.githubusercontent.com/yavuztez/larialaunch/refs/heads/main/bootstrap.jar"
     }
   },
-  "natives_url": "",
-  "assets_url": "",
-  "launcher_jar_url": "",
-  "launcher_jar_checksum": "",
+  "natives_url": "https://github.com/yavuztez/larialaunch/raw/refs/heads/main/natives.zip",
+  "assets_url": "http://104.238.23.22/assets.zip",
+  "launcher_jar_url": "https://github.com/yavuztez/larialaunch/raw/refs/heads/main/launcherr.jar",
+  "launcher_jar_checksum": "ef8222ac5b9dd126aef0e2d93a7b4d4290d75787",
   "launcher_path": "launcher.jar",
   "launcher_args": "-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dcom.sun.net.ssl.checkRevocation=false -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -XX:+DisableAttachMechanism -Dcom.ibm.tools.attach.enable=no -Djna.encoding=UTF-8 -Dlog4j2.formatMsgNoLookups=true -Dr=1 -Xmn%initRAM%M -Xmx%maxRAM%M -Djava.net.preferIPv4Stack=true %runArgs%",
   "javaIntegrity": {
-    "rt-x64": ""
+    "rt-x64": "14b11002ca8b6c317153ba22b23f15ac037a5a72"
   },
   "downloads": {
     "client": {
-      "sha1": "",
-      "url": ""
+      "sha1": "2bcff844ab16805357ba95a309e577603c7a5645",
+      "url": "https://github.com/yavuztez/larialaunch/raw/refs/heads/main/Client.jar"
     }
   },
   "java": {
-    "url": "",
-    "sha1": "cc7f42ab58a89cd036b8f55226a2459804b1d981",
-    "sha1-x32": "d10eff2fcb4a7e96e39cc699dc9344a4698a6a60",
-    "rt-x64": "6bbd8364dcb7aa2783eadca6136ee382e35749ba"
+    "url": "http://104.238.23.22/java.zip",
+    "sha1": "db28292d57bd6e75571ef656e04f2ae2cd1b5386",
+    "sha1-x32": "e69bffb8015f7f6d2593a357141a153208de53a0",
+    "rt-x64": "14b11002ca8b6c317153ba22b23f15ac037a5a72"
   }
 }
